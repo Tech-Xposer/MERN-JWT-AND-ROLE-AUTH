@@ -22,7 +22,7 @@
     "mongoose": "^5.10.5",
     "node-sass": "^4.14.1",
     "nodemailer": "^6.4.11",
-    "passport": "^0.4.1",
+    "passport": "^0.7.0",
     "passport-google-oauth20": "^2.0.0",
     "passport-jwt": "^4.0.0",
     "react-google-button": "^0.7.1",
