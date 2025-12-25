@@ -24,7 +24,7 @@
     "nodemailer": "^6.4.11",
     "passport": "^0.4.1",
     "passport-google-oauth20": "^2.0.0",
-    "passport-jwt": "^4.0.0",
+    "passport-jwt": "^4.0.1",
     "react-google-button": "^0.7.1",
     "validator": "^13.1.1"
   },
